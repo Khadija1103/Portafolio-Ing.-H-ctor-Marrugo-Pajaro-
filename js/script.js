@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
        CONFIGURACIÓN FORMSUBMIT
        ===================================================== */
 
-    const FORMSUBMIT_EMAIL = "hectorrafael1953@yahoo.es";
+    const FORMSUBMIT_EMAIL = "hectorafael1952@yahoo.es";
 
     const FORMSUBMIT_ENDPOINT =
         `https://formsubmit.co/ajax/${FORMSUBMIT_EMAIL}`;
